@@ -3,9 +3,9 @@ Subscribe pose (with time stamp) from "/vrpn_client_ros" and transmit via the CO
 ## rospack list:
 - src
   - multireceive
-    - git clone -b multireceive https://github.com/Linclone/COM_rospack.git
+    - git clone -b multireceive https://github.com/Linclone/COM_rospack.git ./
   - multisend_20
-    - git clone -b multisend_20 https://github.com/Linclone/COM_rospack.git
+    - git clone -b multisend_20 https://github.com/Linclone/COM_rospack.git ./
   - receive_mc
   - send_mc
   - sendtest
